@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "package.json",
+        "public",
+        "rollup.config.js",
+        "src/client/**/*.js"
+    ]
+}
